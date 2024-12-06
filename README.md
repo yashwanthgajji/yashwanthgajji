@@ -6,21 +6,21 @@
 ![Yashwanth Gajji Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthgajji&layout=donut)
 
 ## 🚀 Open-Source Contributions:
-- [ComposeCharts](https://github.com/ehsannarmani/ComposeCharts)
-- [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
+- [![ComposeCharts](https://img.shields.io/badge/-ComposeCharts-2dba4e?&style=for-the-badge&logo=github&logoColor=24292e)](https://github.com/ehsannarmani/ComposeCharts)
+- [![AmazeFileManager](https://img.shields.io/badge/-AmazeFileManager-2dba4e?&style=for-the-badge&logo=github&logoColor=24292e)](https://github.com/TeamAmaze/AmazeFileManager)
 
 ## 🛠️ Tech Stack:
 Here are some of the technologies I work with:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-5b5b5b?style=plastic&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-5b5b5b?style=plastic&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android-5b5b5b?style=plastic&logo=android)
+![JavaScript](https://img.shields.io/badge/-JavaScript-5b5b5b?style=plastic&logo=javascript)
+![React Native](https://img.shields.io/badge/-React%20Native-5b5b5b?style=plastic&logo=react)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-5b5b5b?style=plastic&logo=springboot)
+![Python](https://img.shields.io/badge/-Python-5b5b5b?style=plastic&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-5b5b5b?style=plastic&logo=mysql)
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanthgajji/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanthgajji/)
+[![Gmail](https://img.shields.io/badge/-Gmail-e4e4e4?&style=flat&logo=gmail)](mailto:gajjiyashwanth7@gmail.com)
