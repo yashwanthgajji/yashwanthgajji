@@ -7,11 +7,11 @@
 
 ## 🚀 Open-Source Contributions:
 [![ComposeCharts](https://img.shields.io/badge/-ComposeCharts-2dba4e?&style=for-the-badge&logo=github&logoColor=24292e)](https://github.com/ehsannarmani/ComposeCharts)
-- Resolved critical data rendering issue in dynamic Pie Chart component, preventing application crashes during data re-composition.
-- Designed responsive chart annotations that dynamically adjust to screen dimensions and font scaling, improving user experience and data comprehension.
+- Resolved critical data rendering issue in dynamic Pie Chart component, preventing application crashes during data re-composition.[🔗](https://github.com/ehsannarmani/ComposeCharts/pull/56)
+- Designed responsive chart annotations that dynamically adjust to screen dimensions and font scaling, improving user experience and data comprehension.[🔗](https://github.com/ehsannarmani/ComposeCharts/pull/57)
 
 [![AmazeFileManager](https://img.shields.io/badge/-AmazeFileManager-2dba4e?&style=for-the-badge&logo=github&logoColor=24292e)](https://github.com/TeamAmaze/AmazeFileManager)
-- Implemented direct file deletion mechanism, enabling immediate permanent removal without intermediate confirmation steps or temporary storage in trash folder.
+- Implemented direct file deletion mechanism, enabling immediate permanent removal disabling functionality of trash bin.[🔗](https://github.com/TeamAmaze/AmazeFileManager/pull/4290)
 
 ## 🛠️ Tech Stack:
 Here are some of the technologies I work with:
