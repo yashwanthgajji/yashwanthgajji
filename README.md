@@ -20,6 +20,7 @@ Here are some of the technologies I work with:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-5b5b5b?style=plastic&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-5b5b5b?style=plastic&logo=android)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5b5b5b?style=plastic&logo=javascript)
+![React](https://img.shields.io/badge/-React-5b5b5b?style=plastic&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-5b5b5b?style=plastic&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-5b5b5b?style=plastic&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-5b5b5b?style=plastic&logo=python)
